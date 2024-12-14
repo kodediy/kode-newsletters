@@ -1,19 +1,12 @@
 [
-    {
-      "id": "2024-12-02",
-      "language": "es",
-      "title": "Newsletter de la semana",
-      "subtitle": "Todas las novedades en tecnología",
-      "image": "https://example.com/portada-2024-12-02-es.jpg",
-      "file": "2024-12-02-ES.html"
-    },
-    {
-      "id": "2024-12-02",
-      "language": "en",
-      "title": "Weekly Newsletter",
-      "subtitle": "All the latest in technology",
-      "image": "https://example.com/cover-2024-12-02-en.jpg",
-      "file": "2024-12-02-EN.html"
-    }
-  ]
-  
+  {
+    "id": "2024-12-02",
+    "title_es": "Newsletter de la semana",
+    "subtitle_es": "Todas las novedades en tecnología",
+    "title_en": "Weekly Newsletter",
+    "subtitle_en": "All the latest in technology",
+    "image": "https://raw.githubusercontent.com/kodediy/kode-newsletters/main/images/cover-2024-12-02.jpg",
+    "file_es": "2024-12-02-ES.html",
+    "file_en": "2024-12-02-EN.html"
+  }
+]
