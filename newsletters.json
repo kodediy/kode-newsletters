@@ -1,10 +1,10 @@
 [
   {
     "id": "2024-12-02",
-    "title_es": "Newsletter de la semana",
-    "subtitle_es": "Todas las novedades en tecnología",
-    "title_en": "Weekly Newsletter",
-    "subtitle_en": "All the latest in technology",
+    "title_es": "#1: lo que ESTAMOS CREANDO para TI",
+    "subtitle_es": "el PROTOTIPO tomando FORMA",
+    "title_en": "#1: What WE'RE CREATING for YOU",
+    "subtitle_en": "the PROTOTYPE taking shape",
     "image": "https://raw.githubusercontent.com/kodediy/kode-newsletters/main/images/cover-2024-12-02.jpg",
     "file_es": "2024-12-02-ES.html",
     "file_en": "2024-12-02-EN.html"
