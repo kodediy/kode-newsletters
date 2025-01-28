@@ -1,0 +1,5 @@
+- Darle a los tres puntitos en el correo
+- Ir a "Mostrar original"
+- Copiar desde <!DOCTYPE html> hasta </html>
+- Pasar por "https://www.webatic.com/quoted-printable-convertor" en modo decoder
+- Copiar el resultado en un .html
